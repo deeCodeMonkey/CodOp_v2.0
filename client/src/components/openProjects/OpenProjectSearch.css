@@ -1,0 +1,23 @@
+#project-search-title {
+    height: 75px;
+    background-color: #58646c;
+    color: white;
+    margin-top: 35px;
+    margin-bottom: 10px;
+}
+
+#search-form {
+    padding: 10px;
+}
+
+.react-datepicker-wrapper {
+    width: 100%;
+}
+
+.react-datepicker__input-container {
+    width: 100%;
+}
+
+.react-datepicker-ignore-onclickoutside {
+    width: 100%;
+}
